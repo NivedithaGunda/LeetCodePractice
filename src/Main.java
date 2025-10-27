@@ -1,4 +1,3 @@
-import Arrays.LC1;
 
 public class Main {
 
